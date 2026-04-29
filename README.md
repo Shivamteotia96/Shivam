@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shivam Chaudhary  
 
 <p align="center">
-  <img src="shivam.jpg" width="180" style="border-radius:50%;" />
+  <img src="shivam.jpg" width="180" />
 </p>
 
 <p align="center">
@@ -11,22 +11,21 @@
 ---
 
 ## 🚀 About Me
-💡 Data Analyst with real-world experience at **Hero MotoCorp**  
+
+💡 Data Analyst with experience in real-world projects  
 📊 Skilled in SQL, Excel, Power BI & Python  
 📈 Improved efficiency by **40%**  
 ⚡ Reduced manual errors by **30%**  
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
+## 🛠️ Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
@@ -34,42 +33,40 @@
 ## 📂 Featured Projects
 
 ### 📊 Sales Dashboard
-✔ Built interactive dashboard using Power BI  
-✔ Tracked regional performance  
-✔ Improved decision making  
+- Built using Excel & Power BI  
+- Interactive dashboard for sales tracking  
+- Improved decision making  
 
-👉 [View Live](https://shivamteotia96.github.io/Shivam/)
+👉 [View Project](https://shivamteotia96.github.io/Shivam/)
 
 ---
 
 ### 🚚 Delivery Data Analysis
-✔ SQL-based data analysis  
-✔ Identified delays & optimized delivery  
-✔ Achieved **40% efficiency boost**  
+- SQL-based data analysis  
+- Optimized delivery performance  
+- Increased efficiency by **40%**  
 
 ---
 
 ### 👨‍💼 Employee Data System
-✔ Automated workflows using Python  
-✔ Reduced manual work  
-✔ Decreased errors by **30%**  
+- Automated workflows using Python  
+- Reduced manual errors by **30%**  
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Live Portfolio
 
-👉 **Live Site:**  
 🔗 https://shivamteotia96.github.io/Shivam/
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact-8171670966
 
 <p align="center">
-  <a href="mailto:chaudharyshivam82186@gmail.com">
+  <a href="emailto:chaudharyshivam82186@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  
+
   <a href="tel:+918171670966">
     <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
@@ -93,4 +90,4 @@
 
 ---
 
-⭐ **If you like my work, give it a star!**
+⭐ If you like this portfolio, give it a star!
