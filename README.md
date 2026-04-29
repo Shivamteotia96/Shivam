@@ -1,76 +1,96 @@
-# 👋 Hi, I'm Shivam Chaudhary
+# 👋 Hi, I'm Shivam Chaudhary  
 
-🚀 Data Analyst | SQL | Power BI | Excel | Python  
+<p align="center">
+  <img src="shivam.jpg" width="180" style="border-radius:50%;" />
+</p>
 
----
-
-## 🌟 About Me
-I am a passionate Data Analyst with experience in transforming raw data into meaningful insights.  
-I have worked on real-world projects improving efficiency and business decisions.
-
-- 📊 1+ year experience (Hero MotoCorp)
-- 📈 Improved efficiency by 40%
-- 🤖 Reduced manual errors by 30%
-- 💡 Strong analytical & problem-solving skills
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Analyst;SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Insights" />
+</p>
 
 ---
 
-## 🛠️ Skills
+## 🚀 About Me
+💡 Data Analyst with real-world experience at **Hero MotoCorp**  
+📊 Skilled in SQL, Excel, Power BI & Python  
+📈 Improved efficiency by **40%**  
+⚡ Reduced manual errors by **30%**  
 
-- Excel (Advanced)
-- SQL (MySQL)
-- Power BI / Tableau
-- Python (Pandas, NumPy)
-- Data Cleaning & Visualization
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
 ### 📊 Sales Dashboard
-- Built using Excel & Power BI
-- Interactive insights for business decisions
+✔ Built interactive dashboard using Power BI  
+✔ Tracked regional performance  
+✔ Improved decision making  
+
+👉 [View Live](https://shivamteotia96.github.io/Shivam/)
+
+---
 
 ### 🚚 Delivery Data Analysis
-- Optimized delivery performance
-- Achieved 40% efficiency improvement
+✔ SQL-based data analysis  
+✔ Identified delays & optimized delivery  
+✔ Achieved **40% efficiency boost**  
+
+---
 
 ### 👨‍💼 Employee Data System
-- Automated employee data workflows
-- Reduced manual errors by 30%
+✔ Automated workflows using Python  
+✔ Reduced manual work  
+✔ Decreased errors by **30%**  
 
 ---
 
-## 🌐 Live Portfolio
+## 🌐 Portfolio
 
-👉 https://your-username.github.io/portfolio/
-
----
-
-## 📸 Preview
-
-![Portfolio Preview](https://images.unsplash.com/photo-1519389950473-47ba0277781c)
+👉 **Live Site:**  
+🔗 https://shivamteotia96.github.io/Shivam/
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: chaudharyshivam82186@gmail.com
-- 📱 Phone: +91-8171670966
+<p align="center">
+  <a href="mailto:chaudharyshivam82186@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="tel:+918171670966">
+    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## ⭐ GitHub Stats
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
-## 🔗 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/your-profile
-- GitHub: https://github.com/your-username
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamteotia96&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ If you like this portfolio, give it a star!
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamteotia96&theme=tokyonight" />
+</p>
+
+---
+
+⭐ **If you like my work, give it a star!**
