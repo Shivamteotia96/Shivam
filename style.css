@@ -1,1 +1,97 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  color: white;
+  background: url('https://images.unsplash.com/photo-1519389950473-47ba0277781c') no-repeat center/cover;
+}
 
+.overlay {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.75);
+  z-index: -1;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+}
+
+nav ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+.hero {
+  text-align: center;
+  padding: 120px 20px;
+}
+
+.hero span {
+  color: cyan;
+}
+
+.btn {
+  background: cyan;
+  padding: 10px 20px;
+  color: black;
+  text-decoration: none;
+}
+
+.glass {
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(10px);
+  margin: 20px;
+  padding: 30px;
+  border-radius: 15px;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.project-card {
+  background: rgba(255,255,255,0.08);
+  padding: 20px;
+  border-radius: 15px;
+  transition: 0.3s;
+}
+
+.project-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 0 15px cyan;
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.github {
+  background: black;
+  padding: 8px 12px;
+  color: white;
+  text-decoration: none;
+}
+
+.live {
+  background: cyan;
+  padding: 8px 12px;
+  color: black;
+  text-decoration: none;
+}
+
+.skills span {
+  background: cyan;
+  color: black;
+  padding: 8px;
+  margin: 5px;
+  display: inline-block;
+}
