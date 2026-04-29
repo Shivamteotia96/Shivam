@@ -1,18 +1,76 @@
-/* PROJECT GRID */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #0f172a;
+  color: white;
+}
+
+/* NAV */
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+}
+
+.menu a {
+  margin-left: 25px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+/* HERO */
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 100vh;
+  padding: 80px;
+}
+
+.hero img {
+  width: 250px;
+  border-radius: 50%;
+  border: 3px solid cyan;
+}
+
+.hero span {
+  color: cyan;
+}
+
+/* BUTTONS */
+.buttons a {
+  margin: 10px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.btn { background: cyan; color: black; }
+.btn2 { border: 1px solid cyan; color: cyan; }
+.btn3 { background: white; color: black; }
+
+/* SECTION */
+.section {
+  min-height: 100vh;
+  padding: 80px;
+}
+
+/* PROJECTS */
 .project-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
   gap: 25px;
-  margin-top: 30px;
 }
 
-/* PROJECT CARD */
 .project-card {
   background: rgba(255,255,255,0.05);
   padding: 25px;
   border-radius: 15px;
   transition: 0.3s;
-  cursor: pointer;
   backdrop-filter: blur(10px);
 }
 
@@ -21,10 +79,8 @@
   box-shadow: 0 0 20px cyan;
 }
 
-/* TEXT */
 .tools {
   color: #aaa;
-  margin: 5px 0;
 }
 
 .impact {
@@ -37,7 +93,6 @@
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-  margin-top: 20px;
 }
 
 .skills span {
@@ -45,10 +100,24 @@
   color: black;
   padding: 8px 15px;
   border-radius: 20px;
-  font-size: 14px;
-  transition: 0.3s;
 }
 
 .skills span:hover {
   box-shadow: 0 0 10px cyan;
+}
+
+/* MODAL */
+.modal {
+  display: none;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.8);
+}
+
+.modal-box {
+  background: #111;
+  margin: 15% auto;
+  padding: 20px;
+  width: 300px;
 }
