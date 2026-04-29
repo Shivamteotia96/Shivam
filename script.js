@@ -1,8 +1,9 @@
-document.querySelectorAll('a').forEach(a=>{
-  a.onclick = function(e){
-    if(this.hash){
-      e.preventDefault();
-      document.querySelector(this.hash).scrollIntoView({behavior:'smooth'});
-    }
-  }
-});
+function openProject(title, desc) {
+  document.getElementById("modal").style.display = "block";
+  document.getElementById("title").innerText = title;
+  document.getElementById("desc").innerText = desc;
+}
+
+function closeModal() {
+  document.getElementById("modal").style.display = "none";
+}
